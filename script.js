@@ -1,6 +1,6 @@
 function isSameType(value1, value2) {
   //your js code here
-	if(Number.isNan(value1) && Numbwe.isNan(value2){
+	if(Number.isNan(value1) && Numbwe.isNan(value2)){
 		return true;
 	}
 	else{
